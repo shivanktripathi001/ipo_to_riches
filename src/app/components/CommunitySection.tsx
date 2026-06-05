@@ -128,7 +128,7 @@ export function CommunitySection() {
           className="text-center"
         >
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/ipo_to_riches?igsh=YWFxaXd2bWZ2aTZr"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-gradient-to-r from-[#f09433] via-[#e6683c] via-[#dc2743] via-[#cc2366] to-[#bc1888] text-white px-8 py-4 rounded-2xl font-700 text-base hover:scale-105 transition-transform duration-200 hover:shadow-xl hover:shadow-pink-500/20"

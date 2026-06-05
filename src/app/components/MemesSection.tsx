@@ -24,7 +24,7 @@ export function MemesSection() {
             <p className="text-white/40 text-sm mt-1">Because learning finance should be fun too</p>
           </div>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/ipo_to_riches?igsh=YWFxaXd2bWZ2aTZr"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:flex items-center gap-2 border border-white/10 text-white/60 hover:text-white hover:border-white/20 px-4 py-2 rounded-xl text-sm transition-all"

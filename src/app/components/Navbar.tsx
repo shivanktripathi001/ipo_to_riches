@@ -40,7 +40,7 @@ export function Navbar() {
             <img
               src={logoImg}
               alt="IPO To Riches Logo"
-              className="h-10 w-10 object-contain rounded-full"
+              className="h-10 w-10 object-cover rounded-full"
             />
             <span className="font-['Barlow_Condensed'] font-900 text-xl tracking-wide text-white">
               IPO<span className="text-[#F5A300]">_TO_</span> RICHES
@@ -70,7 +70,7 @@ export function Navbar() {
               <Bell size={18} />
             </button>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/ipo_to_riches?igsh=YWFxaXd2bWZ2aTZr"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 bg-[#F5A300] text-black px-4 py-2 rounded-lg text-sm font-700 hover:bg-[#f5b300] transition-all duration-200 hover:scale-105"
@@ -111,7 +111,7 @@ export function Navbar() {
                 </a>
               ))}
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/ipo_to_riches?igsh=YWFxaXd2bWZ2aTZr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-3 flex items-center justify-center gap-2 bg-[#F5A300] text-black px-4 py-3 rounded-lg text-sm font-700"

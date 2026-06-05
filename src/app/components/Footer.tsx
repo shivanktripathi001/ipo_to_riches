@@ -30,7 +30,7 @@ const footerLinks = {
 };
 
 const socials = [
-  { icon: <Instagram size={18} />, href: "https://instagram.com", label: "Instagram", color: "#E1306C" },
+  { icon: <Instagram size={18} />, href: "https://www.instagram.com/ipo_to_riches?igsh=YWFxaXd2bWZ2aTZr", label: "Instagram", color: "#E1306C" },
   { icon: <Youtube size={18} />, href: "https://youtube.com", label: "YouTube", color: "#FF0000" },
   { icon: <Twitter size={18} />, href: "https://twitter.com", label: "Twitter", color: "#1DA1F2" },
   { icon: <Mail size={18} />, href: "mailto:hello@ipotoriches.com", label: "Email", color: "#F5A300" },

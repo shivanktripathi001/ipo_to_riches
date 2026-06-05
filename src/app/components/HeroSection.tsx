@@ -198,7 +198,7 @@ export function HeroSection() {
               <ArrowRight size={16} />
             </a>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/ipo_to_riches?igsh=YWFxaXd2bWZ2aTZr"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 bg-gradient-to-r from-[#f09433] via-[#e6683c] to-[#dc2743] text-white px-6 py-3.5 rounded-xl font-700 text-sm hover:scale-105 transition-all duration-200 hover:shadow-lg hover:shadow-pink-500/25"
